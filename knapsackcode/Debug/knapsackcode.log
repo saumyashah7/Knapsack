@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  knapsack_template.cpp
+d:\csus\fyp\code\cpp_template\knapsack_template.cpp(109): warning C4244: '=': conversion from 'time_t' to 'long', possible loss of data
+d:\csus\fyp\code\cpp_template\knapsack_template.cpp(442): warning C4018: '<': signed/unsigned mismatch
+d:\csus\fyp\code\cpp_template\knapsack_template.cpp(508): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  knapsackcode.vcxproj -> C:\Users\rutwi\source\repos\Knapsackcode\Debug\knapsackcode.exe
